@@ -1,2 +1,2 @@
 # juanbot
-fun discord bot
+fun discord bot (under development)
